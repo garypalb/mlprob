@@ -139,7 +139,7 @@ pycrypto==2.6.1
 pycurl==7.43.0.1
 pyDML==0.0.1
 pyflakes==2.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==1.8.4
 PyLMNN==1.6.3
 pyodbc==4.0.23
